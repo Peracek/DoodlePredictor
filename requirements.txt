@@ -2,4 +2,5 @@ opencv-python-headless
 pandas
 streamlit
 streamlit_drawable_canvas
-tensorflow
+tensorflow-macos==2.15.0
+tensorflow-metal==1.1.0
